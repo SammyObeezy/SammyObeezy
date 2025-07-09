@@ -1,5 +1,5 @@
 # 👋 Hi there!
-Welcome to my GitHub! I'm a Software Developer
+Welcome to my GitHub! I'm a Software Engineer
 
 🌍  I'm based in Nairobi, Kenya  
 🧠  I'm currently learning Progressive Web Apps (PWAs), combining the best of web and native apps with features like offline access and fast load times.  
