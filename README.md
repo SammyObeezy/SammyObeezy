@@ -1,10 +1,21 @@
-# 👋 Hi there!
-Welcome to my GitHub! I'm a Software Engineer
+# 👋 Hi, I'm Sammy
 
-🌍  I'm based in Nairobi, Kenya  
-🧠  I'm currently learning Progressive Web Apps (PWAs), combining the best of web and native apps with features like offline access and fast load times.  
-🤝  I'm a Java and Python developer, open to collaborating on exciting projects involving system optimization or PWA development.  
-⚡  I enjoy exploring innovative technologies and reading programming-related articles.  
-📫 Let's Connect!  
-- LinkedIn: [Sammy Obonyo](https://www.linkedin.com/in/sammy-obonyo-2a17b91a9/)  
-- Medium: [Sammy Obonyo](https://medium.com/@barasam07)
+A Software and Systems Engineer from Nairobi, Kenya 🌍, focused on building robust, efficient, and scalable solutions. I specialize in creating clean architecture that connects high-performance back-end systems with intuitive user interfaces.
+
+### 🚀 Core Focus
+* **Systems Development:** Optimizing performance and building fault-tolerant applications with Java, Python, and C++.
+* **Frontend:** Crafting responsive user interfaces with modern tools like React, TypeScript, and Vite.
+
+### 🛠️ Tech Stack
+* **Languages:** Java, Python, C++, JavaScript/TypeScript, Structured Text (IEC 61131-3)
+* **Tools & Frameworks:** React, Spring Boot, Node.js, Vite, Git, Docker
+* **Concepts:** System Design, OOP, Data Structures & Algorithms, REST APIs
+
+### 🤝 Seeking Collaboration On
+* System performance and efficiency optimization.
+* Real-time data visualization and control interfaces.
+* Projects integrating hardware and software.
+
+### 📫 Connect with Me
+* **LinkedIn:** [Your Name](https://www.linkedin.com/in/sammy-obonyo-2a17b91a9/)
+* **Medium:** [Your Name](https://medium.com/@barasam07)
