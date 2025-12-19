@@ -17,5 +17,5 @@ A Software and Systems Engineer from Nairobi, Kenya 🌍, focused on building ro
 * Projects integrating hardware and software.
 
 ### Connect with Me
-* **LinkedIn:** [Your Name](https://www.linkedin.com/in/sammy-obonyo-2a17b91a9/)
-* **Medium:** [Your Name](https://medium.com/@barasam07)
+* **LinkedIn:** (https://www.linkedin.com/in/sammy-obonyo-2a17b91a9/)
+* **Medium:** (https://medium.com/@barasam07)
