@@ -1,21 +1,41 @@
-# Hi, I'm Sammy
+# Sammy Obonyo
+Backend engineer from Nairobi, Kenya. I build fintech systems 
+that handle real money for real people.
 
-A Software and Systems Engineer from Nairobi, Kenya 🌍, focused on building robust, efficient, and scalable solutions. I specialize in creating clean architecture that connects high-performance back-end systems with intuitive user interfaces.
+Most recently at Safaricom, working inside M-Pesa Payment 
+Processing — microservices, third-party API integrations, 
+security compliance, and observability on systems serving 
+30 million users.
 
-### Core Focus
-* **Systems Development:** Optimizing performance and building fault-tolerant applications with Java, Python, and C++.
-* **Frontend:** Crafting responsive user interfaces with modern tools like React, TypeScript, and Vite.
+I write primarily in Java and Spring Boot. I cross into 
+frontend with React and TypeScript when the work needs it. 
+I treat test coverage and CI/CD as delivery requirements, 
+not afterthoughts.
 
-### Tech Stack
-* **Languages:** Java, Python, C++, JavaScript/TypeScript, Structured Text (IEC 61131-3)
-* **Tools & Frameworks:** React, Spring Boot, Node.js, Vite, Git, Docker
-* **Concepts:** System Design, OOP, Data Structures & Algorithms, REST APIs
+---
 
-### Seeking Collaboration On
-* System performance and efficiency optimization.
-* Real-time data visualization and control interfaces.
-* Projects integrating hardware and software.
+**Currently working with**
+Java · Spring Boot · Spring WebFlux · React · TypeScript · 
+PostgreSQL · MongoDB · Redis · RabbitMQ · Docker · 
+OpenShift · Jenkins · SonarQube · Grafana · Python
 
-### Connect with Me
-* **LinkedIn:** (https://www.linkedin.com/in/sammy-obonyo-2a17b91a9/)
-* **Medium:** (https://medium.com/@barasam07)
+**Touched in production**
+M-Pesa Daraja APIs · SOAP integrations · 
+JWT/OAuth2 · JAXB · HikariCP · Prometheus · Loki
+
+---
+
+**What you'll find here**
+- J-Pesa — a mobile money backend built in pure Java, 
+  no framework scaffolding. Double-entry ledger, ACID 
+  transactions, custom JWT, 100% unit test coverage.
+- C++ REST API with JSON/XML dual-format interoperability
+- Library and payroll management systems in Spring Boot
+- AirBnB clone and Autoparts e-commerce (full-stack)
+- A POSIX-compliant shell written in C
+
+---
+
+📍 Nairobi, Kenya  
+🔗 linkedin.com/in/sammyobonyo-2a17b91a9  
+✉️ barasam07@gmail.com
